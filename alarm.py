@@ -5,6 +5,7 @@ import pygame
 
 #Initializing our audio mixer and setting the wav alarm file we want it to play when the alarm goes off
 pygame.mixer.init(42050, -16, 2, 2048)
+#"song.wav" in this place you can put your wav file 
 alarm_sound = pygame.mixer.Sound("song.wav")
 #Setting our initial global values
 start_printed = False
