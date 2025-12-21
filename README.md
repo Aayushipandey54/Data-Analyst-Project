@@ -1,69 +1,65 @@
-Sales Analysis Dashboard
+<!-- Improved compatibility of back to top link -->
+<a name="readme-top"></a>
 
-Power BI | Python | Data Visualization
+<br />
 
-Project Description
+<!-- TABLE OF CONTENTS -->
+<details>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#usage">Usage</a>
+    </li>
+  </ol>
+</details>
 
-This project focuses on analyzing sales data and presenting it in a clear and interactive way using Power BI. The dashboard helps in understanding sales performance, identifying top products and customers, and observing sales trends over time. The main goal of this project is to support better business decisions using data.
+---
 
-Objective
+## About The Project
 
-To analyze sales data and find meaningful insights
+The **Sales Analysis Dashboard** project focuses on analyzing sales data and presenting meaningful insights using interactive visualizations.  
+The dashboard helps understand **sales performance**, **top products**, **key customers**, and **sales trends over time**, enabling data-driven decision-making.
 
-To identify top-selling products and important customers
+This project demonstrates the use of **Python for data processing** and **Power BI for visualization** in a real-world business scenario.
 
-To understand sales trends over time
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-To present data in a simple and interactive dashboard
+---
 
-Tools & Technologies Used
+## Built With
 
-Power BI – For creating interactive dashboards
+- **Power BI** – Interactive dashboards and reports  
+- **Python** – Data processing and analysis  
+  - pandas  
+  - NumPy  
 
-Python – For data processing and analysis
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-pandas
+---
 
-NumPy
+## Getting Started
 
-Key Features
+Follow the steps below to understand and run the project.
 
-Interactive sales dashboard
+### Prerequisites
 
-Visualization of top products and customers
+- Python version **3.x**
+- Power BI Desktop
 
-Sales trend analysis using charts and graphs
+### Installation
 
-Easy-to-understand KPIs and reports
-
-Project Workflow
-
-Collected and studied the sales dataset
-
-Cleaned and processed the data using Python
-
-Loaded the processed data into Power BI
-
-Created visualizations and dashboards
-
-Analyzed the results to generate business insights
-
-Insights Generated
-
-Which products contribute the most to sales
-
-Who are the top customers
-
-How sales change over time
-
-Overall sales performance overview
-
-What I Learned
-
-How to clean and analyze real-world data
-
-How to use Python for data preprocessing
-
-How to create interactive dashboards in Power BI
-
-How to convert raw data into useful insights
+1. Clone the repository
+   ```sh
+   git clone https://github.com/Aayushipandey54/Data-Analyst-Project.git
